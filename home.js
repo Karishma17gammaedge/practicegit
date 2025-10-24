@@ -23,3 +23,17 @@ const res=add(a,b);
 console.log(res);
 console.log("Changes made for resetting,,....");
 console.log("------------")
+
+console.log("new changesssssssssss.........")
+console.log("moreeeee......new changesssssssssss.........")
+
+console.log("1st commit changes...");
+console.log("2nd commit chnages...");
+console.log("3rd commit changes...");
+
+console.log("1st commit in temp-branch");
+console.log("2nd commit in temp-branch");
+console.log("3rd commit in temp-branch");
+// cherry picking 
+
+// new filessss..........
