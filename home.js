@@ -6,13 +6,19 @@ function loadHomePage() {
 
 loadHomePage();
 
-let a=10;
-let b=290;
+let a=49;
+let b=277;
+
 
 function add(a,b){
+    console.log(a+b)
     return a+b;
 }
 
+const result = add(a,b);
+
+console.log(a+b)
 const res=add(a,b);
 
 console.log(res);
+console.log("Changes made for resetting,,....");
