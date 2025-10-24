@@ -1,10 +1,8 @@
 function add(a,b){
-    console.log("*********")
     return a +b ;
 }
 
 function substract (a,b){
-    console.log("^^^^^^^^^^^^")
     return a-b;
 }
 
@@ -15,7 +13,3 @@ function multiply(a,b){
 function divide(a,b){
     return a/b;
 }
-
-"dfghjkldfhjkfghj"
-
-console.log("zxcfvgbnkxcvbnm,")
