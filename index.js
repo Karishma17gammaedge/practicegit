@@ -16,6 +16,11 @@ function divide(a,b){
     return a/b;
 }
 
-"dfghjkldfhjkfghj"
+console.log("first commit");
+console.log("second commit");
+console.log("second commit");
+console.log("second commit");
+console.log("first commit in child branch");
+console.log("second commit in child branch");
 
-console.log("zxcfvgbnkxcvbnm,")
+
