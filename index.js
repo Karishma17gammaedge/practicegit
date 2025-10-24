@@ -16,6 +16,15 @@ function divide(a,b){
     return a/b;
 }
 
-"dfghjkldfhjkfghj"
+
+console.log("dfgjk");
+console.log("testing");
+
+console.log("testing my rebasing");
+console.log("testing squash commiting");
+
+
+
+
 
 console.log("zxcfvgbnkxcvbnm,")
