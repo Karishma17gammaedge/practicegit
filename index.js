@@ -1,10 +1,8 @@
 function add(a,b){
-    console.log("*********")
     return a +b ;
 }
 
 function substract (a,b){
-    console.log("^^^^^^^^^^^^")
     return a-b;
 }
 
@@ -16,15 +14,6 @@ function divide(a,b){
     return a/b;
 }
 
-
-console.log("dfgjk");
-console.log("testing");
-
-console.log("testing my rebasing");
-console.log("testing squash commiting");
-
-
-
-
+"dfghjkldfhjkfghj"
 
 console.log("zxcfvgbnkxcvbnm,")
