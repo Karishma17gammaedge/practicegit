@@ -9,10 +9,15 @@ loadHomePage();
 let a=49;
 let b=277;
 
-function adding(a,b){
+
+function add(a,b){
+    console.log(a+b)
     return a+b;
 }
 
 const result = add(a,b);
+
+console.log(a+b)
+const res=add(a,b);
 
 console.log(res);
