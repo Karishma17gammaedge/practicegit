@@ -1,19 +1,18 @@
 console.log("Welcome to the Home Page!");
 
 function loadHomePage() {
-    // Simulate loading home page content
     console.log("Loading home page content...");
 }
 
 loadHomePage();
 
-let a=10;
-let b=290;
+let a=49;
+let b=277;
 
-function add(a,b){
+function adding(a,b){
     return a+b;
 }
 
-const res=add(a,b);
+const result = add(a,b);
 
 console.log(res);
