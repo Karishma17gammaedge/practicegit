@@ -17,16 +17,14 @@ function add(a,b){
 
 const result = add(a,b);
 
-<<<<<<< HEAD
+
 console.log(res);
 console.log("Changes made for resetting,,....");
-=======
+
 console.log(a+b)
 const res=add(a,b);
 
 console.log(res);
-<<<<<<< HEAD
->>>>>>> b239a69 (confluct)
-=======
+
 console.log("Changes made for resetting,,....");
->>>>>>> 3785327 (commiting reset changes)
+
