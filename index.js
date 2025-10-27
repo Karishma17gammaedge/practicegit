@@ -15,9 +15,3 @@ function multiply(a,b){
 function divide(a,b){
     return a/b;
 }
-
-console.log("testing");
-console.log("asdfjkl");
-console.log("rebasing test");
-
-
