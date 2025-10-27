@@ -28,3 +28,10 @@ console.log("testing squash commiting");
 
 
 console.log("zxcfvgbnkxcvbnm,")
+console.log("changes 1 ......");
+console.log("changes 2.........");
+console.log("changes 3.........");
+console.log("changes 4..........");
+
+
+
