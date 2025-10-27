@@ -15,3 +15,8 @@ function multiply(a,b){
 function divide(a,b){
     return a/b;
 }
+
+
+console.log("dfgjk");
+console.log("testing");
+
