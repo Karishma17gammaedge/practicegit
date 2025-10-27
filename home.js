@@ -26,3 +26,7 @@ console.log("------------")
 
 console.log("new changesssssssssss.........")
 console.log("moreeeee......new changesssssssssss.........")
+
+console.log("1st commit changes...");
+console.log("2nd commit chnages...");
+console.log("3rd commit changes...");
