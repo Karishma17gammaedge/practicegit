@@ -20,3 +20,8 @@ function divide(a,b){
 console.log("dfgjk");
 console.log("testing");
 
+console.log("testing my rebasing");
+console.log("testing squash commiting");
+
+
+
